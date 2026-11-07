@@ -6,14 +6,14 @@ New to the code? Start with [How it works](docs/HOW-IT-WORKS.md).
 
 ## Live links
 
-Fill these in after deploying.
-
 | | |
 |---|---|
-| Frontend | `TODO` |
-| Backend API | `TODO` |
-| GitHub repository | `TODO` |
+| Frontend | https://courie-tracking-system.netlify.app |
+| Backend API | https://courier-tracking-api-xnxt.onrender.com/api/health |
+| GitHub repository | https://github.com/Sachin-Rajpurohit/courier-tracking-system |
 | Demo video | `TODO` |
+
+The API runs on Render's free plan and sleeps when idle, so the first request can take up to a minute.
 
 ## Demo accounts
 
@@ -216,6 +216,6 @@ docs/            ER diagram, Postman collection
 - [x] ER diagram: `docs/ER-diagram.md`
 - [x] Demo credentials (above)
 - [x] Screenshots of the local app: `docs/screenshots/`
-- [ ] GitHub repository
-- [ ] Live URLs
+- [x] GitHub repository
+- [x] Live URLs
 - [ ] Demo video
