@@ -2,6 +2,8 @@ services:
   - type: web
     name: courier-tracking-api
     runtime: node
+    plan: free
+    region: singapore
     rootDir: server
     buildCommand: npm ci --omit=dev
     startCommand: npm start
